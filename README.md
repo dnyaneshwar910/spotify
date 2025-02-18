@@ -1,19 +1,17 @@
 # Spotify Clone
 
-A web-based music streaming application built using HTML, CSS, and JavaScript, mimicking the Spotify interface and basic functionalities. This project allows users to play, pause, and navigate through music tracks in a similar style to Spotify.
-
-## Song Link
-
-Check out the song used in this project: [Play song]([your-link-here](https://dnyaneshwar910.github.io/spotify/))
+This is a simple Spotify clone built using HTML, CSS, and JavaScript. It allows users to play and browse songs through a clean, interactive UI.
 
 ## Features
 
-- Play/Pause music
+- Play and pause music
 - Browse through songs
-- Simple UI resembling Spotify
+- A simple UI resembling Spotify
 
-## Installation
+## Live Demo
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/dnyaneshwar910/spotify.git
+You can view the live demo of this project [here](https://dnyaneshwar910.github.io/spotify/).
+
+## Song Link
+
+Check out the song used in this project: [Song Name](https://dnyaneshwar910.github.io/spotify/)
